@@ -1,4 +1,4 @@
-package com.company;
+package homework.one;
 
 public class ThirdTask {
     public static void main(String[] args) {

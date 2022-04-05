@@ -1,4 +1,4 @@
-package com.company;
+package homework.one;
 
 import java.util.Scanner;
 

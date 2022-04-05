@@ -1,4 +1,4 @@
-package com.company;
+package homework.one;
 
 public class SecondTask {
     public static void main(String[] args) {
