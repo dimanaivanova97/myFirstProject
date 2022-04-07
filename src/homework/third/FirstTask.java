@@ -47,6 +47,8 @@ public class FirstTask {
                 isItValidDay = false;
                 System.out.println("The number is invalid");
         }
-        System.out.println("The " + dayOfTheWeekNumber + "-" + dayOfWeekEnding + " day of the week is " + dayOfTheWeek);
+        if (isItValidDay){
+            System.out.println("The " + dayOfTheWeekNumber + "-" + dayOfWeekEnding + " day of the week is " + dayOfTheWeek);
+        }
     }
 }
