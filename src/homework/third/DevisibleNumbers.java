@@ -24,7 +24,7 @@ public class DevisibleNumbers {
             System.out.println("Count of numbers cannot be a negative value.");
         }
 
-        while (numberCount > 0 && isValidNumber) {
+        while (numberCount > 0) {
             int number = myScanner.nextInt();
             if (number > 150) {
                 isValidNumber = false;
