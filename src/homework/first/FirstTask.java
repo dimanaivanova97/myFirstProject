@@ -1,4 +1,4 @@
-package homework.one;
+package homework.first;
 
 public class FirstTask {
 
