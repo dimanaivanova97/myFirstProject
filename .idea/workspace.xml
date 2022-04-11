@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Change of the checks for the valid numbers input" />
+    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Untracked files commit">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +104,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.DevisibleNumbers">
+  <component name="RunManager" selected="Application.SumOfNumbers">
     <configuration name="DevisibleNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.third.DevisibleNumbers" />
       <module name="myFirstProject" />
@@ -115,25 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.third.LargestNumber" />
+    <configuration name="LectureExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.forth.LectureExercises" />
       <module name="myFirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.third.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RevenueCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.third.RevenueCalculator" />
-      <module name="myFirstProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.third.*" />
+          <option name="PATTERN" value="homework.forth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,6 +137,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homework.third.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.forth.SumOfNumbers" />
+      <module name="myFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.forth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,19 +171,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RevenueCalculator" />
-      <item itemvalue="Application.LargestNumber" />
       <item itemvalue="Application.VacationAdvisor" />
       <item itemvalue="Application.DevisibleNumbers" />
       <item itemvalue="Application.ReverseList" />
+      <item itemvalue="Application.LectureExercises" />
+      <item itemvalue="Application.SumOfNumbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfNumbers" />
+        <item itemvalue="Application.LectureExercises" />
         <item itemvalue="Application.DevisibleNumbers" />
         <item itemvalue="Application.ReverseList" />
         <item itemvalue="Application.VacationAdvisor" />
-        <item itemvalue="Application.LargestNumber" />
-        <item itemvalue="Application.RevenueCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649404232503</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Untracked files commit">
+      <created>1649404892153</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1649404892153</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -333,7 +343,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="homework-three" />
                       </list>
                     </value>
                   </entry>
@@ -362,7 +372,8 @@
     <MESSAGE value="Numbers which are divisible by 5" />
     <MESSAGE value="Reverse a list of numbers" />
     <MESSAGE value="Change of the checks for the valid numbers input" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change of the checks for the valid numbers input" />
+    <MESSAGE value="Untracked files commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Untracked files commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
