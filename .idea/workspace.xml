@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Refactor of variable name">
-      <change afterPath="$PROJECT_DIR$/out/production/myFirstProject/homework/forth/MatrixFourRowsThreeColumns.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/forth/MatrixFourRowsThreeColumns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myFirstProject/homework/forth/SumOfDiagonal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myFirstProject/homework/forth/SumOfDiagonal.class" afterDir="false" />
-    </list>
+    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Print elements of a given 2-d matrix with 4 rows and 3 columns" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,9 +101,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.MatrixFourRowsThreeColumns">
-    <configuration name="BiggestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.forth.BiggestNumber" />
+  <component name="RunManager" selected="Application.DynamicMatrix">
+    <configuration name="DynamicMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.forth.DynamicMatrix" />
       <module name="myFirstProject" />
       <extension name="coverage">
         <pattern>
@@ -173,19 +168,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BiggestNumber" />
       <item itemvalue="Application.ReversedNumbersList" />
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.SumOfDiagonal" />
       <item itemvalue="Application.MatrixFourRowsThreeColumns" />
+      <item itemvalue="Application.DynamicMatrix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DynamicMatrix" />
         <item itemvalue="Application.MatrixFourRowsThreeColumns" />
         <item itemvalue="Application.SumOfDiagonal" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.ReversedNumbersList" />
-        <item itemvalue="Application.BiggestNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649711990533</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Print elements of a given 2-d matrix with 4 rows and 3 columns">
+      <created>1649712295800</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1649712295800</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -423,7 +425,8 @@
     <MESSAGE value="Validate whether given string is palindrome" />
     <MESSAGE value="Sum of the diagonal of a given 2d matrix with 4 rows and 4 columns" />
     <MESSAGE value="Refactor of variable name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor of variable name" />
+    <MESSAGE value="Print elements of a given 2-d matrix with 4 rows and 3 columns" />
+    <option name="LAST_COMMIT_MESSAGE" value="Print elements of a given 2-d matrix with 4 rows and 3 columns" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
