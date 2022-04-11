@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Reverse the order of the elements in a LinkedList using algorithm">
+    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Validate whether given string is palindrome">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,22 +103,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.Palindrome">
+  <component name="RunManager" selected="Application.SumOfDiagonal">
     <configuration name="BiggestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.forth.BiggestNumber" />
-      <module name="myFirstProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.forth.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LectureExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.forth.LectureExercises" />
       <module name="myFirstProject" />
       <extension name="coverage">
         <pattern>
@@ -156,6 +143,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOfDiagonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.forth.SumOfDiagonal" />
+      <module name="myFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.forth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SumOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.forth.SumOfNumbers" />
       <module name="myFirstProject" />
@@ -170,19 +170,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LectureExercises" />
       <item itemvalue="Application.SumOfNumbers" />
       <item itemvalue="Application.BiggestNumber" />
       <item itemvalue="Application.ReversedNumbersList" />
       <item itemvalue="Application.Palindrome" />
+      <item itemvalue="Application.SumOfDiagonal" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfDiagonal" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.ReversedNumbersList" />
         <item itemvalue="Application.BiggestNumber" />
         <item itemvalue="Application.SumOfNumbers" />
-        <item itemvalue="Application.LectureExercises" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +349,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649708882133</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Validate whether given string is palindrome">
+      <created>1649710517513</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1649710517513</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -396,7 +403,8 @@
     <MESSAGE value="Print sum of a given array elements" />
     <MESSAGE value="Biggest element of an array" />
     <MESSAGE value="Reverse the order of the elements in a LinkedList using algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reverse the order of the elements in a LinkedList using algorithm" />
+    <MESSAGE value="Validate whether given string is palindrome" />
+    <option name="LAST_COMMIT_MESSAGE" value="Validate whether given string is palindrome" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
