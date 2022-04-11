@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Sum of the diagonal of a given 2d matrix with 4 rows and 4 columns">
-      <change beforePath="$PROJECT_DIR$/src/homework/forth/SumOfDiagonal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/forth/SumOfDiagonal.java" afterDir="false" />
+    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Refactor of variable name">
+      <change afterPath="$PROJECT_DIR$/out/production/myFirstProject/homework/forth/MatrixFourRowsThreeColumns.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/forth/MatrixFourRowsThreeColumns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myFirstProject/homework/forth/SumOfDiagonal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myFirstProject/homework/forth/SumOfDiagonal.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,9 +106,22 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.SumOfDiagonal">
+  <component name="RunManager" selected="Application.MatrixFourRowsThreeColumns">
     <configuration name="BiggestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.forth.BiggestNumber" />
+      <module name="myFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.forth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixFourRowsThreeColumns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.forth.MatrixFourRowsThreeColumns" />
       <module name="myFirstProject" />
       <extension name="coverage">
         <pattern>
@@ -156,33 +172,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.forth.SumOfNumbers" />
-      <module name="myFirstProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.forth.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.SumOfNumbers" />
       <item itemvalue="Application.BiggestNumber" />
       <item itemvalue="Application.ReversedNumbersList" />
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.SumOfDiagonal" />
+      <item itemvalue="Application.MatrixFourRowsThreeColumns" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MatrixFourRowsThreeColumns" />
         <item itemvalue="Application.SumOfDiagonal" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.ReversedNumbersList" />
         <item itemvalue="Application.BiggestNumber" />
-        <item itemvalue="Application.SumOfNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -363,7 +366,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649711767712</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Refactor of variable name">
+      <created>1649711990532</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1649711990533</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -412,7 +422,8 @@
     <MESSAGE value="Reverse the order of the elements in a LinkedList using algorithm" />
     <MESSAGE value="Validate whether given string is palindrome" />
     <MESSAGE value="Sum of the diagonal of a given 2d matrix with 4 rows and 4 columns" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sum of the diagonal of a given 2d matrix with 4 rows and 4 columns" />
+    <MESSAGE value="Refactor of variable name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor of variable name" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
