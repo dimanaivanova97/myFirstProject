@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Untracked files commit">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="homework-three" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2765qFCS3veRid8PPFRh4DwqgPT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Application.SumOfNumbers">
+    <configuration name="DevisibleNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.third.DevisibleNumbers" />
+      <module name="myFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.third.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LectureExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.forth.LectureExercises" />
+      <module name="myFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.forth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.third.ReverseList" />
+      <module name="myFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.third.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.forth.SumOfNumbers" />
+      <module name="myFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.forth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VacationAdvisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.third.VacationAdvisor" />
+      <module name="myFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.third.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.VacationAdvisor" />
+      <item itemvalue="Application.DevisibleNumbers" />
+      <item itemvalue="Application.ReverseList" />
+      <item itemvalue="Application.LectureExercises" />
+      <item itemvalue="Application.SumOfNumbers" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SumOfNumbers" />
+        <item itemvalue="Application.LectureExercises" />
+        <item itemvalue="Application.DevisibleNumbers" />
+        <item itemvalue="Application.ReverseList" />
+        <item itemvalue="Application.VacationAdvisor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="" />
+      <created>1648627887244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648627887244</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Homework 1">
+      <created>1649181193279</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649181193280</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Homework 1">
+      <created>1649195105829</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649195105830</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add a new class for the second Homework">
+      <created>1649225334947</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649225334947</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Logic change of the SimpleScript">
+      <created>1649318823300</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649318823300</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Create a new class for the third Homework">
+      <created>1649319066317</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1649319066317</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Write a program to print the days of the week based on the user digit 1-7 input.">
+      <created>1649319970376</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1649319970376</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Write a program to print the days of the week based on the user digit 1-7 input.">
+      <created>1649321548712</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1649321548712</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit changes">
+      <created>1649321677299</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1649321677299</updated>
+    </task>
+    <task id="LOCAL-00009" summary="If invalid day is submitted, an error is displayed.">
+      <created>1649361105578</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1649361105578</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Refactor of name of the class">
+      <created>1649361228286</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1649361228286</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Show if the person is eligible to work">
+      <created>1649361597144</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1649361597144</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Calculate the revenue from a sale based on the unit price and quantity of a product input by the user">
+      <created>1649364332326</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1649364332326</updated>
+    </task>
+    <task id="LOCAL-00013" summary=".">
+      <created>1649364456065</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1649364456065</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Find the largest number from a given array">
+      <created>1649366363271</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1649366363271</updated>
+    </task>
+    <task id="LOCAL-00015" summary="A program which advices the user where to go to a vacation based on the type of the vacation and the budget">
+      <created>1649369220074</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1649369220074</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Numbers which are divisible by 5">
+      <created>1649403387558</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1649403387558</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Reverse a list of numbers">
+      <created>1649404069927</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1649404069927</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Change of the checks for the valid numbers input">
+      <created>1649404232503</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1649404232503</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Untracked files commit">
+      <created>1649404892153</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1649404892153</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="homework-three" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework 1" />
+    <MESSAGE value="Add a new class for the second Homework" />
+    <MESSAGE value="Logic change of the SimpleScript" />
+    <MESSAGE value="Create a new class for the third Homework" />
+    <MESSAGE value="Write a program to print the days of the week based on the user digit 1-7 input." />
+    <MESSAGE value="commit changes" />
+    <MESSAGE value="If invalid day is submitted, an error is displayed." />
+    <MESSAGE value="Refactor of name of the class" />
+    <MESSAGE value="Show if the person is eligible to work" />
+    <MESSAGE value="Calculate the revenue from a sale based on the unit price and quantity of a product input by the user" />
+    <MESSAGE value="." />
+    <MESSAGE value="Find the largest number from a given array" />
+    <MESSAGE value="A program which advices the user where to go to a vacation based on the type of the vacation and the budget" />
+    <MESSAGE value="Numbers which are divisible by 5" />
+    <MESSAGE value="Reverse a list of numbers" />
+    <MESSAGE value="Change of the checks for the valid numbers input" />
+    <MESSAGE value="Untracked files commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Untracked files commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/first/SixthTask.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/third/RevenueCalculator.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/third/DevisibleNumbers.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
