@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Method to find the smallest number among three numbers" />
+    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Write a Java method to compute the average of three numbers.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,26 +103,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.AverageNumbers">
+  <component name="RunManager" selected="Application.MiddleCharacter">
     <configuration name="AverageNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.fifth.AverageNumbers" />
       <module name="myFirstProject" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homework.fifth.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DynamicMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.forth.DynamicMatrix" />
-      <module name="myFirstProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.forth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,6 +143,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MiddleCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.fifth.MiddleCharacter" />
+      <module name="myFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.fifth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SmallestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.fifth.SmallestNumber" />
       <module name="myFirstProject" />
@@ -168,19 +170,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DynamicMatrix" />
       <item itemvalue="Application.LectureExercises" />
       <item itemvalue="Application.Exsercises" />
       <item itemvalue="Application.SmallestNumber" />
       <item itemvalue="Application.AverageNumbers" />
+      <item itemvalue="Application.MiddleCharacter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MiddleCharacter" />
         <item itemvalue="Application.AverageNumbers" />
         <item itemvalue="Application.SmallestNumber" />
         <item itemvalue="Application.Exsercises" />
         <item itemvalue="Application.LectureExercises" />
-        <item itemvalue="Application.DynamicMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -389,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649881853551</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Write a Java method to compute the average of three numbers.">
+      <created>1649882312326</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1649882312326</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -416,7 +425,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add a new class for the second Homework" />
     <MESSAGE value="Logic change of the SimpleScript" />
     <MESSAGE value="Create a new class for the third Homework" />
     <MESSAGE value="Write a program to print the days of the week based on the user digit 1-7 input." />
@@ -441,7 +449,8 @@
     <MESSAGE value="Print elements of a given 2-d matrix with 4 rows and 3 columns" />
     <MESSAGE value="Print elements of a given 2-d matrix with dynamic rows and columns taken from user input" />
     <MESSAGE value="Method to find the smallest number among three numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method to find the smallest number among three numbers" />
+    <MESSAGE value="Write a Java method to compute the average of three numbers." />
+    <option name="LAST_COMMIT_MESSAGE" value="Write a Java method to compute the average of three numbers." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -455,6 +464,11 @@
           <url>file://$PROJECT_DIR$/src/homework/third/RevenueCalculator.java</url>
           <line>22</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/fifth/MiddleCharacter.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
