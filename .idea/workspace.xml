@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Write a Java method to compute the average of three numbers.">
+    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Method to display the middle character of a string">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myFirstProject/homework/fifth/MiddleCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myFirstProject/homework/fifth/MiddleCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/fifth/MiddleCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/fifth/MiddleCharacter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -398,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649882312326</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Method to display the middle character of a string">
+      <created>1649884122180</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1649884122180</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -425,7 +434,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Logic change of the SimpleScript" />
     <MESSAGE value="Create a new class for the third Homework" />
     <MESSAGE value="Write a program to print the days of the week based on the user digit 1-7 input." />
     <MESSAGE value="commit changes" />
@@ -450,7 +458,8 @@
     <MESSAGE value="Print elements of a given 2-d matrix with dynamic rows and columns taken from user input" />
     <MESSAGE value="Method to find the smallest number among three numbers" />
     <MESSAGE value="Write a Java method to compute the average of three numbers." />
-    <option name="LAST_COMMIT_MESSAGE" value="Write a Java method to compute the average of three numbers." />
+    <MESSAGE value="Method to display the middle character of a string" />
+    <option name="LAST_COMMIT_MESSAGE" value="Method to display the middle character of a string" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -464,11 +473,6 @@
           <url>file://$PROJECT_DIR$/src/homework/third/RevenueCalculator.java</url>
           <line>22</line>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/homework/fifth/MiddleCharacter.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
