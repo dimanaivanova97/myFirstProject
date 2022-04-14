@@ -9,9 +9,12 @@ public class MiddleCharacter {
 
         String stringInput = myScanner.nextLine();
 
-        System.out.println(middleCharacter(stringInput));
+        System.out.println("The middle character is: " + middleCharacter(stringInput));
+        System.out.println("The count of words in the string are: " + wordsCount(stringInput));
 
     }
+
+
     static String middleCharacter (String stringInput){
         String middleChar = "";
 
@@ -21,5 +24,17 @@ public class MiddleCharacter {
             middleChar = String.valueOf(stringInput.charAt(stringInput.length()/2));
         }
         return middleChar;
+    }
+
+
+    static int wordsCount (String stringInput){
+
+        int countOfWords = 0;
+        for (int i = 0; i < stringInput.length(); i++) {
+            if (( (i > 0) && (stringInput.charAt(i)!=' ') && (stringInput.charAt( i-1 )==' ')) || ((stringInput.charAt(i)!=' ') && ( i==0 )) ){
+                countOfWords++;
+            }
+        }
+        return countOfWords;
     }
 }
