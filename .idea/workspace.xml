@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Method to count all words in a string">
+    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Method returns true if the argument is even, or false otherwise.">
       <change afterPath="$PROJECT_DIR$/out/production/myFirstProject/homework/hackerRank/Exsercises.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/homework/hackerRank/Exsercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/fifth/isEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/fifth/isEven.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -413,7 +414,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649965900956</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Method returns true if the argument is even, or false otherwise.">
+      <created>1649966514965</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1649966514965</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -440,7 +448,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Write a program to print the days of the week based on the user digit 1-7 input." />
     <MESSAGE value="commit changes" />
     <MESSAGE value="If invalid day is submitted, an error is displayed." />
     <MESSAGE value="Refactor of name of the class" />
@@ -465,7 +472,8 @@
     <MESSAGE value="Write a Java method to compute the average of three numbers." />
     <MESSAGE value="Method to display the middle character of a string" />
     <MESSAGE value="Method to count all words in a string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method to count all words in a string" />
+    <MESSAGE value="Method returns true if the argument is even, or false otherwise." />
+    <option name="LAST_COMMIT_MESSAGE" value="Method returns true if the argument is even, or false otherwise." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -18,12 +18,11 @@ public class isEven {
         }
 
     }
-    boolean isEven(int input){
+    static boolean isEven(int input){
         boolean isItEven = true;
         if (input % 2 != 0){
             isItEven = false;
         }
         return isItEven;
     }
-
 }
