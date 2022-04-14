@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Method to display the middle character of a string">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myFirstProject/homework/fifth/MiddleCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myFirstProject/homework/fifth/MiddleCharacter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/fifth/MiddleCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/fifth/MiddleCharacter.java" afterDir="false" />
+    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Method to count all words in a string">
+      <change afterPath="$PROJECT_DIR$/out/production/myFirstProject/homework/hackerRank/Exsercises.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/hackerRank/Exsercises.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +104,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.MiddleCharacter">
+  <component name="RunManager" selected="Application.isEven">
     <configuration name="AverageNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.fifth.AverageNumbers" />
       <module name="myFirstProject" />
@@ -121,19 +120,6 @@
     </configuration>
     <configuration name="Exsercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.hackerRank.Exsercises" />
-      <module name="myFirstProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.hackerRank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LectureExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.hackerRank.LectureExercises" />
       <module name="myFirstProject" />
       <extension name="coverage">
         <pattern>
@@ -171,20 +157,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="isEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.fifth.isEven" />
+      <module name="myFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.fifth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.LectureExercises" />
       <item itemvalue="Application.Exsercises" />
       <item itemvalue="Application.SmallestNumber" />
       <item itemvalue="Application.AverageNumbers" />
       <item itemvalue="Application.MiddleCharacter" />
+      <item itemvalue="Application.isEven" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.isEven" />
         <item itemvalue="Application.MiddleCharacter" />
         <item itemvalue="Application.AverageNumbers" />
         <item itemvalue="Application.SmallestNumber" />
         <item itemvalue="Application.Exsercises" />
-        <item itemvalue="Application.LectureExercises" />
       </list>
     </recent_temporary>
   </component>
@@ -407,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649884122180</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Method to count all words in a string">
+      <created>1649965900955</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1649965900956</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -434,7 +440,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Create a new class for the third Homework" />
     <MESSAGE value="Write a program to print the days of the week based on the user digit 1-7 input." />
     <MESSAGE value="commit changes" />
     <MESSAGE value="If invalid day is submitted, an error is displayed." />
@@ -459,7 +464,8 @@
     <MESSAGE value="Method to find the smallest number among three numbers" />
     <MESSAGE value="Write a Java method to compute the average of three numbers." />
     <MESSAGE value="Method to display the middle character of a string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method to display the middle character of a string" />
+    <MESSAGE value="Method to count all words in a string" />
+    <option name="LAST_COMMIT_MESSAGE" value="Method to count all words in a string" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
