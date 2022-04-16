@@ -2,7 +2,7 @@ package homework.fifth;
 
 import java.util.Scanner;
 
-public class isEven {
+public class IsEven {
     public static void main(String[] args) {
 
         Scanner myScanner = new Scanner(System.in);
