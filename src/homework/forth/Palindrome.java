@@ -12,27 +12,19 @@ public class Palindrome {
         String inputString = myScanner.nextLine();
 
         ArrayList<Character> chars = new ArrayList<>();
+        ArrayList<Character> inputBackwards = new ArrayList<>();
 
         for (int i = 0; i < inputString.length(); i++) {
             chars.add(inputString.charAt(i));
+            inputBackwards.add(inputString.charAt(i));
         }
 
-        Collections.reverse(chars);
+        Collections.reverse(inputBackwards);
 
-        StringBuilder inputBackwards = new StringBuilder();
-
-        for (int i = 0; i < inputString.length(); i++) {
-            inputBackwards.append(inputString.charAt(i));
-        }
-
-
-        if (inputString.equals(inputBackwards.toString())){
+        if (chars.equals(inputBackwards)){
             System.out.println("The word that you entered is a Palindrome. This means that the word reads the same backward as forward");
         } else {
             System.out.println("The word is not a Palindrome.");
         }
-
-
-
     }
 }

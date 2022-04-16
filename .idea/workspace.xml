@@ -4,7 +4,9 @@
     <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Method returns true if the argument is even, or false otherwise.">
       <change afterPath="$PROJECT_DIR$/out/production/myFirstProject/homework/hackerRank/Exsercises.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/homework/hackerRank/Exsercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/fifth/isEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/fifth/isEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/fifth/isEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/fifth/IsEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/forth/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/forth/Palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,26 +107,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.isEven">
+  <component name="RunManager" selected="Application.Palindrome">
     <configuration name="AverageNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.fifth.AverageNumbers" />
       <module name="myFirstProject" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homework.fifth.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exsercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.hackerRank.Exsercises" />
-      <module name="myFirstProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.hackerRank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,8 +134,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.fifth.SmallestNumber" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.forth.Palindrome" />
+      <module name="myFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.forth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.fifth.PolindromeNumber" />
       <module name="myFirstProject" />
       <extension name="coverage">
         <pattern>
@@ -172,19 +174,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Exsercises" />
-      <item itemvalue="Application.SmallestNumber" />
       <item itemvalue="Application.AverageNumbers" />
       <item itemvalue="Application.MiddleCharacter" />
       <item itemvalue="Application.isEven" />
+      <item itemvalue="Application.PolindromeNumber" />
+      <item itemvalue="Application.Palindrome" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.PolindromeNumber" />
         <item itemvalue="Application.isEven" />
         <item itemvalue="Application.MiddleCharacter" />
         <item itemvalue="Application.AverageNumbers" />
-        <item itemvalue="Application.SmallestNumber" />
-        <item itemvalue="Application.Exsercises" />
       </list>
     </recent_temporary>
   </component>
