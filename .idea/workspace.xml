@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Method returns true if the argument is even, or false otherwise.">
-      <change afterPath="$PROJECT_DIR$/out/production/myFirstProject/homework/hackerRank/Exsercises.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/hackerRank/Exsercises.java" afterDir="false" />
+    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Delete &quot;HackerRank&quot; package">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/fifth/isEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/fifth/IsEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/forth/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/forth/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myFirstProject/homework/hackerRank/Exsercises.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,13 +104,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.Palindrome">
-    <configuration name="AverageNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.fifth.AverageNumbers" />
+  <component name="RunManager" selected="Application.CarClass">
+    <configuration name="CarClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.sixth.CarClass" />
       <module name="myFirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.fifth.*" />
+          <option name="PATTERN" value="homework.sixth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiddleCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.fifth.MiddleCharacter" />
+    <configuration name="HackerRank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.excersise.HackerRank" />
       <module name="myFirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.fifth.*" />
+          <option name="PATTERN" value="homework.excersise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,19 +171,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AverageNumbers" />
-      <item itemvalue="Application.MiddleCharacter" />
       <item itemvalue="Application.isEven" />
       <item itemvalue="Application.PolindromeNumber" />
       <item itemvalue="Application.Palindrome" />
+      <item itemvalue="Application.HackerRank" />
+      <item itemvalue="Application.CarClass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarClass" />
+        <item itemvalue="Application.HackerRank" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.PolindromeNumber" />
         <item itemvalue="Application.isEven" />
-        <item itemvalue="Application.MiddleCharacter" />
-        <item itemvalue="Application.AverageNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -423,7 +420,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649966514965</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Returns true if the number is a palindrome">
+      <created>1650144915942</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1650144915942</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Delete &quot;HackerRank&quot; package">
+      <created>1650144971150</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1650144971150</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -450,8 +461,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit changes" />
-    <MESSAGE value="If invalid day is submitted, an error is displayed." />
     <MESSAGE value="Refactor of name of the class" />
     <MESSAGE value="Show if the person is eligible to work" />
     <MESSAGE value="Calculate the revenue from a sale based on the unit price and quantity of a product input by the user" />
@@ -475,7 +484,9 @@
     <MESSAGE value="Method to display the middle character of a string" />
     <MESSAGE value="Method to count all words in a string" />
     <MESSAGE value="Method returns true if the argument is even, or false otherwise." />
-    <option name="LAST_COMMIT_MESSAGE" value="Method returns true if the argument is even, or false otherwise." />
+    <MESSAGE value="Returns true if the number is a palindrome" />
+    <MESSAGE value="Delete &quot;HackerRank&quot; package" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete &quot;HackerRank&quot; package" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
