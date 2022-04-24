@@ -10,6 +10,12 @@ public class CarClass {
     Boolean isSecondHand;
     int horsePower;
 
+    public CarClass(String carName, String carColor, int releaseYear, int horsePower) {
+        this.carName = carName;
+        this.carColor = carColor;
+        this.releaseYear = releaseYear;
+        this.horsePower = horsePower;
+    }
 
     public CarClass(String carName, int releaseYear, Boolean isSecondHand, int horsePower) {
         this.carName = carName;
@@ -31,6 +37,7 @@ public class CarClass {
         this.isSecondHand = isSecondHand;
     }
 
+
     public CarClass() {
     }
 
@@ -38,7 +45,8 @@ public class CarClass {
 
         CarClass carOne = new CarClass("Citroen", 2010, true, 194);
         CarClass carTwo = new CarClass("Honda", "Light Blue", true);
-        CarClass carThree= new CarClass("Mazda", "Green", 2000, false);
+        CarClass carThree = new CarClass("Mazda", "Green", 2003, false);
+        CarClass carFive = new CarClass("BMW", "Red", 2020, true);
         CarClass carFour = new CarClass();
 
         System.out.println(carOne.carColor);
