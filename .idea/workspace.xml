@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="CarClass improvements">
+    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Fix the code to handle all possible exceptions and create all needed tests with input values in order to validate that the code works fine">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myFirstProject/homework/sixth/CarClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myFirstProject/homework/sixth/CarClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myFirstProject/homework/sixth/CustomException.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +104,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.NumbersDivision">
+  <component name="RunManager" selected="Application.MyMainClass">
     <configuration name="CarClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.sixth.CarClass" />
       <module name="myFirstProject" />
@@ -144,6 +144,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.seventh.taskOne.MyMainClass" />
+      <module name="myFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.seventh.taskOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumbersDivision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.sixth.NumbersDivision" />
       <module name="myFirstProject" />
@@ -157,33 +170,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.forth.Palindrome" />
-      <module name="myFirstProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.forth.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.HackerRank" />
       <item itemvalue="Application.CarClass" />
       <item itemvalue="Application.FixingCodeTask" />
       <item itemvalue="Application.NumbersDivision" />
+      <item itemvalue="Application.MyMainClass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyMainClass" />
         <item itemvalue="Application.NumbersDivision" />
         <item itemvalue="Application.FixingCodeTask" />
         <item itemvalue="Application.CarClass" />
         <item itemvalue="Application.HackerRank" />
-        <item itemvalue="Application.Palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -448,7 +448,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650832325541</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="A program which reads two numbers from the console and divides them">
+      <created>1650909778583</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1650909778583</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Fix the code to handle all possible exceptions and create all needed tests with input values in order to validate that the code works fine">
+      <created>1650909850386</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1650909850386</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -475,8 +489,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Calculate the revenue from a sale based on the unit price and quantity of a product input by the user" />
-    <MESSAGE value="." />
     <MESSAGE value="Find the largest number from a given array" />
     <MESSAGE value="A program which advices the user where to go to a vacation based on the type of the vacation and the budget" />
     <MESSAGE value="Numbers which are divisible by 5" />
@@ -500,7 +512,9 @@
     <MESSAGE value="Delete &quot;HackerRank&quot; package" />
     <MESSAGE value="Car class which has 5 elements" />
     <MESSAGE value="CarClass improvements" />
-    <option name="LAST_COMMIT_MESSAGE" value="CarClass improvements" />
+    <MESSAGE value="A program which reads two numbers from the console and divides them" />
+    <MESSAGE value="Fix the code to handle all possible exceptions and create all needed tests with input values in order to validate that the code works fine" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix the code to handle all possible exceptions and create all needed tests with input values in order to validate that the code works fine" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
