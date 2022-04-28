@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Class that calculates the perimeter and the area of an object">
-      <change afterPath="$PROJECT_DIR$/out/production/myFirstProject/homework/seventh/taskOne/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/myFirstProject/homework/seventh/taskOne/MyMainClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/myFirstProject/homework/seventh/taskOne/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/myFirstProject/homework/seventh/taskOne/Square.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/myFirstProject/homework/sixth/NumbersDivision.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/seventh/taskTwo/Employee.java" afterDir="false" />
+    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Employee class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myFirstProject/homework/sixth/CarClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myFirstProject/homework/sixth/CarClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/seventh/taskTwo/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/seventh/taskTwo/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/sixth/CarClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/sixth/CarClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,20 +106,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.Employee">
-    <configuration name="CarClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.sixth.CarClass" />
-      <module name="myFirstProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.sixth.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.seventh.taskTwo.Employee" />
       <module name="myFirstProject" />
@@ -149,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.seventh.taskOne.MyMainClass" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.eight.Main" />
       <module name="myFirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.seventh.taskOne.*" />
+          <option name="PATTERN" value="homework.eight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,20 +159,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.exercise" />
+      <module name="myFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.CarClass" />
       <item itemvalue="Application.FixingCodeTask" />
       <item itemvalue="Application.NumbersDivision" />
-      <item itemvalue="Application.MyMainClass" />
       <item itemvalue="Application.Employee" />
+      <item itemvalue="Application.exercise" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Employee" />
-        <item itemvalue="Application.MyMainClass" />
-        <item itemvalue="Application.NumbersDivision" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.FixingCodeTask" />
-        <item itemvalue="Application.CarClass" />
+        <item itemvalue="Application.NumbersDivision" />
+        <item itemvalue="Application.exercise" />
+        <item itemvalue="Application.Employee" />
       </list>
     </recent_temporary>
   </component>
@@ -474,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650919811479</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Employee class">
+      <created>1650921973410</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1650921973410</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -501,7 +505,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="A program which advices the user where to go to a vacation based on the type of the vacation and the budget" />
     <MESSAGE value="Numbers which are divisible by 5" />
     <MESSAGE value="Reverse a list of numbers" />
     <MESSAGE value="Change of the checks for the valid numbers input" />
@@ -526,7 +529,8 @@
     <MESSAGE value="A program which reads two numbers from the console and divides them" />
     <MESSAGE value="Fix the code to handle all possible exceptions and create all needed tests with input values in order to validate that the code works fine" />
     <MESSAGE value="Class that calculates the perimeter and the area of an object" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class that calculates the perimeter and the area of an object" />
+    <MESSAGE value="Employee class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Employee class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -540,6 +544,11 @@
           <url>file://$PROJECT_DIR$/src/homework/third/RevenueCalculator.java</url>
           <line>22</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/eight/Main.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
