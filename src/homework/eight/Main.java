@@ -1,4 +1,4 @@
-package homework.eight.person;
+package homework.eight;
 
 public class Main {
     public static void main(String[] args) {

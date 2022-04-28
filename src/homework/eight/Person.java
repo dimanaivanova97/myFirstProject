@@ -1,4 +1,4 @@
-package homework.eight.person;
+package homework.eight;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
