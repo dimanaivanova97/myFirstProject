@@ -37,7 +37,6 @@ public class CarClass {
         this.isSecondHand = isSecondHand;
     }
 
-
     public CarClass() {
     }
 
