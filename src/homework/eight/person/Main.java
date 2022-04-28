@@ -1,7 +1,4 @@
-package homework.eight;
-
-import java.util.InputMismatchException;
-import java.util.Scanner;
+package homework.eight.person;
 
 public class Main {
     public static void main(String[] args) {

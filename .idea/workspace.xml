@@ -134,11 +134,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.eight.Main" />
+      <option name="MAIN_CLASS_NAME" value="homework.eight.person.Main" />
       <module name="myFirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.eight.*" />
+          <option name="PATTERN" value="homework.eight.person.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
