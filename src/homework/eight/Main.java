@@ -1,4 +1,4 @@
-package homework.eight.person;
+package homework.eight;
 
 public class Main {
     public static void main(String[] args) {
@@ -14,11 +14,25 @@ public class Main {
         System.out.println("Date of birth: " + person.dateOfBirth);
         System.out.println("Nationality: " + person.nationality);
         System.out.println("Job: " + person.job);
-        System.out.println("Job: " + person.isAdult());
-        System.out.println(person.sayHello() + person.name + "!");
+        System.out.println();
         System.out.println(person.isAdult());
+        System.out.println(person.sayHello());
+
         System.out.println(person.celebrateEaster());
         System.out.println(person.canTakeLoan());
 
+
+        Child child = new Child();
+
+        System.out.println(child.isAdult());
+
+        Person italian = new Italian();
+        Person american = new American();
+        Person bulgarian = new Bulgarian();
+
+
+        System.out.println(italian.sayHello());
+        System.out.println(american.sayHello());
+        System.out.println(bulgarian.sayHello());
     }
 }

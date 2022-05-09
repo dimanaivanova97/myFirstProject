@@ -1,4 +1,4 @@
-package homework.eight.person;
+package homework.eight;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -14,6 +14,7 @@ public class Person {
     final String dateOfBirth;
     final String age;
     String country;
+    String mainWords;
 
     String fullEGN;
 
@@ -163,7 +164,7 @@ public class Person {
         if (isAdult){
             isAdultMessage = name + " is an adult.";
         } else {
-            isAdultMessage = name + " is still a minor.";
+            isAdultMessage = "N/A";
         }
         return isAdultMessage;
     }
