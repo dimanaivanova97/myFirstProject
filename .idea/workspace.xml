@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Create a package for Person task">
-      <change beforePath="$PROJECT_DIR$/src/homework/eight/person/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/eight/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/eight/person/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/eight/Person.java" afterDir="false" />
+    <list default="true" id="c9b92777-4ab6-4ba8-8526-328470e4c7b3" name="Changes" comment="Remove package for Person task">
+      <change afterPath="$PROJECT_DIR$/src/homework/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myFirstProject/homework/eight/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myFirstProject/homework/eight/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myFirstProject/homework/eight/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myFirstProject/homework/eight/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myFirstProject/homework/exercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/eight/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/eight/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/eight/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/eight/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/exercise.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +38,14 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -104,20 +118,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.seventh.taskTwo.Employee" />
-      <module name="myFirstProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.seventh.taskTwo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="FixingCodeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.sixth.FixingCodeTask" />
       <module name="myFirstProject" />
@@ -131,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.eight.person.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.eight.Main" />
       <module name="myFirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.eight.person.*" />
+          <option name="PATTERN" value="homework.eight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +145,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumbersDivision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.sixth.NumbersDivision" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.Main" />
       <module name="myFirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.sixth.*" />
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.eight.person.Main" />
+      <module name="myFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.eight.person.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,18 +186,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.FixingCodeTask" />
-      <item itemvalue="Application.NumbersDivision" />
-      <item itemvalue="Application.Employee" />
       <item itemvalue="Application.exercise" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.exercise" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.FixingCodeTask" />
-        <item itemvalue="Application.NumbersDivision" />
-        <item itemvalue="Application.exercise" />
-        <item itemvalue="Application.Employee" />
       </list>
     </recent_temporary>
   </component>
@@ -490,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651181655567</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Remove package for Person task">
+      <created>1651181838246</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1651181838246</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -517,7 +538,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Change of the checks for the valid numbers input" />
     <MESSAGE value="Untracked files commit" />
     <MESSAGE value="Print sum of a given array elements" />
     <MESSAGE value="Biggest element of an array" />
@@ -542,7 +562,8 @@
     <MESSAGE value="Employee class" />
     <MESSAGE value="Create class Person which has the following attributes: name, sex, religion, language spoken, job, nationality, EGN, date of birth, age, country of residence." />
     <MESSAGE value="Create a package for Person task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create a package for Person task" />
+    <MESSAGE value="Remove package for Person task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove package for Person task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
